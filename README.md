@@ -1,4 +1,4 @@
-# Optimizing-Group-Scheduling
+# Optimizing-Group-Socialization
 
 ## Dependencies 
 This project relies on Google's CP-SAT Tool, which can be installed by following the instructions [here](https://developers.google.com/optimization/install).
